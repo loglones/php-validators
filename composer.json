@@ -1,0 +1,14 @@
+{
+  "name": "loglones/php-validators",
+  "description": "Набор валидаторов для PHP проектов",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "PhpValidators\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.1"
+  }
+}
