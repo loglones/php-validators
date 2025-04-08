@@ -1,5 +1,5 @@
 <?php
-namespace App\Validators;
+namespace PhpValidators;
 
 class ValidatorOnlyNum
 {

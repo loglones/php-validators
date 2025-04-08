@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Validators;
+namespace PhpValidators;
 
 class ValidatorRus
 {

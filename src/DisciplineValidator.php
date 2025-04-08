@@ -1,6 +1,5 @@
 <?php
-namespace App\Validators;
-
+namespace PhpValidators;
 class DisciplineValidator
 {
     private array $errors = [];

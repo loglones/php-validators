@@ -1,6 +1,5 @@
 <?php
-namespace App\Validators;
-
+namespace PhpValidators;
 class RegisterValidator
 {
     private array $errors = [];
